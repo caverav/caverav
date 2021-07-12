@@ -2,7 +2,7 @@
 
 
 ## 🚀 Sobre mí
-Soy estudiante de Ingeniería Civil Informática de Universidad Federico Santa María.
+Estudiante de Ingeniería Civil Informática de Universidad Federico Santa María.
 
   
 ## 🔗 Links
