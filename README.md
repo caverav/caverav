@@ -1,5 +1,4 @@
 # Camilo Vera
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=caverav)
 
 ## 🚀 Sobre mí
 Estudiante de Ingeniería Civil Informática de Universidad Federico Santa María.
