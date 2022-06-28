@@ -56,4 +56,4 @@ Estudiante de Ingeniería Civil Informática de Universidad Federico Santa Marí
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=caverav&theme=tokyonight)](https://git.io/streak-stats)
 
 
-![Caverav's lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=caverav&theme=tokyonight&layout=compact&langs_count=6)
+![Caverav's lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=caverav&theme=tokyonight&layout=compact&langs_count=8&hide=css,html)
