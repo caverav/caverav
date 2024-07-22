@@ -17,8 +17,6 @@ Estudiante de Ingeniería Civil Informática de Universidad Federico Santa Marí
   <br>
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind%20-%231572B6.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
-  <img alt="RubyOnRails" src="https://img.shields.io/badge/-Ruby On Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white" />
-  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-17BAFA?style=for-the-badge&logo=flutter&logoColor=white" />
   <br>
   <br>
   **Containers;)**
