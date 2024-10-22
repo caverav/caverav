@@ -1,7 +1,7 @@
-# Camilo Vera
+# Camilo Vera Vidales
 
 ## 🚀 Sobre mí
-Estudiante de Ingeniería Civil Informática de Universidad Federico Santa María.
+Security Engineer | Pentester
 
   **Lenguajes favoritos:**
   <br>
@@ -9,7 +9,6 @@ Estudiante de Ingeniería Civil Informática de Universidad Federico Santa Marí
   <img alt="Python" src="https://img.shields.io/badge/Python%20-%233771A1.svg?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Bash" src="https://img.shields.io/badge/Bash%20-%233C4549.svg?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img alt="C/C++" src="https://img.shields.io/badge/C/C++%20-%23659BD3.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img alt="Ruby" src="https://img.shields.io/badge/Ruby%20-%23D30001.svg?style=for-the-badge&logo=ruby&logoColor=white" />
   <img alt="Dart" src="https://img.shields.io/badge/Dart%20-%2326B8F6.svg?style=for-the-badge&logo=dart&logoColor=white" />
   <br>
   <br>
