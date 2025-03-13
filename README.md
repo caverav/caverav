@@ -5,16 +5,6 @@ Security Engineer | Pentester 🐧
 
 ---
 
-## 🛠️ Tech Stack  
-
-### 🖥️ Fav Languages
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" /> <img alt="Python" src="https://img.shields.io/badge/Python%20-%233771A1.svg?style=for-the-badge&logo=python&logoColor=white" />
-<img alt="Bash" src="https://img.shields.io/badge/Bash%20-%233C4549.svg?style=for-the-badge&logo=gnubash&logoColor=white" />
-<img alt="C/C++" src="https://img.shields.io/badge/C/C++%20-%23659BD3.svg?style=for-the-badge&logo=c&logoColor=white" />
-
-### 🏗️ Fav Frameworks/Libs  
-<img alt="Tailwind" src="https://img.shields.io/badge/Tailwind%20-%231572B6.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
-
 ### 🛠️ Containers & DevOps  
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" /> <img alt="Podman" src="https://img.shields.io/badge/-Podman-1a051c?style=for-the-badge&logo=podman&logoColor=white" />
 <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-316CE6?style=for-the-badge&logo=kubernetes&logoColor=white" />
