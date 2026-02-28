@@ -37,7 +37,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=caverav&theme=tokyonight&hide_border=true"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=caverav&theme=tokyo-night&hide_border=true"/>
-</p>
